@@ -16,6 +16,7 @@ export default function About(){
             <li>Solo Exhibition: "Rain and Silence" — Jehangir Art Gallery, Mumbai (2024)</li>
             <li>Group Show: "Urban Tides" — Pune Art Collective (2023)</li>
             <li>Residency: Kala Bhavan, Pune (2022)</li>
+            <li>411078li>
           </ul>
 
           <a href="/assets/CV-Aarav-Patel.pdf" className="btn btn-outline" style={{marginTop:12}}>Download CV</a>
